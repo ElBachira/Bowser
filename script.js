@@ -174,7 +174,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const songArtistEl = document.getElementById('song-artist');
     const spotifyIcon = document.querySelector('.spotify-icon');
     
-    // CORRECCIÓN AQUÍ: Faltaba cerrar comilla y paréntesis, y el ID estaba cortado.
     const lyricsContainer = document.getElementById('lyrics-container');
     
     const playIcon = '<i class="fas fa-play"></i>';
