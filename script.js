@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
   { "time": 87, "line": "Peaches, Peaches, Peaches, Peaches, Peaches" },
   { "time": 89, "line": "Te amo, oh" },
   { "time": 94, "line": "Peaches, Peaches" }
-  { "time": 99, "line": "¡PEAAACH!, ¡PEAAAAAAAACH!" 
+  { "time": 99, "line": "¡PEAAACH!, ¡PEAAAAAAAACH!" }
 ]
 ```
         }
